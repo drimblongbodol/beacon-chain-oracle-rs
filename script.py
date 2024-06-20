@@ -5,3 +5,4 @@
 # optimize 2741
 # fix 1899
 # fix 7791
+# fix 1058
