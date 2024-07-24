@@ -65,3 +65,4 @@ eth-abi==1.4.6
 pydantic==1.9.1
 pydantic==0.2.4
 eth-abi==2.9.4
+eth-abi==2.2.5
