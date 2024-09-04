@@ -1,3 +1,4 @@
 # auto-createdeth-abi==2.2.4
 web3==1.2.6
 aiohttp==2.5.5
+web3==1.9.4
