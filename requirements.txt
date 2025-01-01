@@ -25,3 +25,4 @@ requests==1.2.2
 web3==2.7.1
 pydantic==0.2.8
 requests==1.4.0
+requests==2.3.8
