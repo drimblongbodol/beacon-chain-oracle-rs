@@ -58,3 +58,4 @@
 - Update note 7978
 - Update note 8364
 - Update note 7228
+- Update note 7473
