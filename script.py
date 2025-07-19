@@ -12,3 +12,4 @@
 # optimize 7047
 # optimize 7145
 # fix 5133
+# fix 5372
